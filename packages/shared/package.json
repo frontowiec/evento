@@ -1,0 +1,12 @@
+{
+  "name": "@evento/shared",
+  "version": "0.0.1",
+  "main": "dist",
+  "license": "MIT",
+  "scripts": {
+    "compile": "tsc -b -w"
+  },
+  "devDependencies": {
+    "typescript": "^3.2.2"
+  }
+}
